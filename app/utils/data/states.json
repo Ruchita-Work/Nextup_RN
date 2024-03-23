@@ -1,0 +1,304 @@
+{
+    "states": [
+        {
+            "name": "Alabama",
+            "abbreviation": "AL",
+            "label": "Alabama (AL)",
+            "value": "Alabama"
+        },
+        {
+            "name": "Alaska",
+            "abbreviation": "AK",
+            "label": "Alaska (AK)",
+            "value": "Alaska"
+        },
+        {
+            "name": "Arizona",
+            "abbreviation": "AZ",
+            "label": "Arizona (AZ)",
+            "value": "Arizona"
+        },
+        {
+            "name": "Arkansas",
+            "abbreviation": "AR",
+            "label": "Arkansas (AR)",
+            "value": "Arkansas"
+        },
+        {
+            "name": "California",
+            "abbreviation": "CA",
+            "label": "California (CA)",
+            "value": "California"
+        },
+        {
+            "name": "Colorado",
+            "abbreviation": "CO",
+            "label": "Colorado (CO)",
+            "value": "Colorado"
+        },
+        {
+            "name": "Connecticut",
+            "abbreviation": "CT",
+            "label": "Connecticut (CT)",
+            "value": "Connecticut"
+        },
+        {
+            "name": "Delaware",
+            "abbreviation": "DE",
+            "label": "Delaware (DE)",
+            "value": "Delaware"
+        },
+        {
+            "name": "Florida",
+            "abbreviation": "FL",
+            "label": "Florida (FL)",
+            "value": "Florida"
+        },
+        {
+            "name": "Georgia",
+            "abbreviation": "GA",
+            "label": "Georgia (GA)",
+            "value": "Georgia"
+        },
+        {
+            "name": "Hawaii",
+            "abbreviation": "HI",
+            "label": "Hawaii (HI)",
+            "value": "Hawaii"
+        },
+        {
+            "name": "Idaho",
+            "abbreviation": "ID",
+            "label": "Idaho (ID)",
+            "value": "Idaho"
+        },
+        {
+            "name": "Illinois",
+            "abbreviation": "IL",
+            "label": "Illinois (IL)",
+            "value": "Illinois"
+        },
+        {
+            "name": "Indiana",
+            "abbreviation": "IN",
+            "label": "Indiana (IN)",
+            "value": "Indiana"
+        },
+        {
+            "name": "Iowa",
+            "abbreviation": "IA",
+            "label": "Iowa (IA)",
+            "value": "Iowa"
+        },
+        {
+            "name": "Kansas",
+            "abbreviation": "KS",
+            "label": "Kansas (KS)",
+            "value": "Kansas"
+        },
+        {
+            "name": "Kentucky",
+            "abbreviation": "KY",
+            "label": "Kentucky (KY)",
+            "value": "Kentucky"
+        },
+        {
+            "name": "Louisiana",
+            "abbreviation": "LA",
+            "label": "Louisiana (LA)",
+            "value": "Louisiana"
+        },
+        {
+            "name": "Maine",
+            "abbreviation": "ME",
+            "label": "Maine (ME)",
+            "value": "Maine"
+        },
+        {
+            "name": "Maryland",
+            "abbreviation": "MD",
+            "label": "Maryland (MD)",
+            "value": "Maryland"
+        },
+        {
+            "name": "Massachusetts",
+            "abbreviation": "MA",
+            "label": "Massachusetts (MA)",
+            "value": "Massachusetts"
+        },
+        {
+            "name": "Michigan",
+            "abbreviation": "MI",
+            "label": "Michigan (MI)",
+            "value": "Michigan"
+        },
+        {
+            "name": "Minnesota",
+            "abbreviation": "MN",
+            "label": "Minnesota (MN)",
+            "value": "Minnesota"
+        },
+        {
+            "name": "Mississippi",
+            "abbreviation": "MS",
+            "label": "Mississippi (MS)",
+            "value": "Mississippi"
+        },
+        {
+            "name": "Missouri",
+            "abbreviation": "MO",
+            "label": "Missouri (MO)",
+            "value": "Missouri"
+        },
+        {
+            "name": "Montana",
+            "abbreviation": "MT",
+            "label": "Montana (MT)",
+            "value": "Montana"
+        },
+        {
+            "name": "Nebraska",
+            "abbreviation": "NE",
+            "label": "Nebraska (NE)",
+            "value": "Nebraska"
+        },
+        {
+            "name": "Nevada",
+            "abbreviation": "NV",
+            "label": "Nevada (NV)",
+            "value": "Nevada"
+        },
+        {
+            "name": "New Hampshire",
+            "abbreviation": "NH",
+            "label": "New Hampshire (NH)",
+            "value": "New Hampshire"
+        },
+        {
+            "name": "New Jersey",
+            "abbreviation": "NJ",
+            "label": "New Jersey (NJ)",
+            "value": "New Jersey"
+        },
+        {
+            "name": "New Mexico",
+            "abbreviation": "NM",
+            "label": "New Mexico (NM)",
+            "value": "New Mexico"
+        },
+        {
+            "name": "New York",
+            "abbreviation": "NY",
+            "label": "New York (NY)",
+            "value": "New York"
+        },
+        {
+            "name": "North Carolina",
+            "abbreviation": "NC",
+            "label": "North Carolina (NC)",
+            "value": "North Carolina"
+        },
+        {
+            "name": "North Dakota",
+            "abbreviation": "ND",
+            "label": "North Dakota (ND)",
+            "value": "North Dakota"
+        },
+        {
+            "name": "Ohio",
+            "abbreviation": "OH",
+            "label": "Ohio (OH)",
+            "value": "Ohio"
+        },
+        {
+            "name": "Oklahoma",
+            "abbreviation": "OK",
+            "label": "Oklahoma (OK)",
+            "value": "Oklahoma"
+        },
+        {
+            "name": "Oregon",
+            "abbreviation": "OR",
+            "label": "Oregon (OR)",
+            "value": "Oregon"
+        },
+        {
+            "name": "Pennsylvania",
+            "abbreviation": "PA",
+            "label": "Pennsylvania (PA)",
+            "value": "Pennsylvania"
+        },
+        {
+            "name": "Rhode Island",
+            "abbreviation": "RI",
+            "label": "Rhode Island (RI)",
+            "value": "Rhode Island"
+        },
+        {
+            "name": "South Carolina",
+            "abbreviation": "SC",
+            "label": "South Carolina (SC)",
+            "value": "South Carolina"
+        },
+        {
+            "name": "South Dakota",
+            "abbreviation": "SD",
+            "label": "South Dakota (SD)",
+            "value": "South Dakota"
+        },
+        {
+            "name": "Tennessee",
+            "abbreviation": "TN",
+            "label": "Tennessee (TN)",
+            "value": "Tennessee"
+        },
+        {
+            "name": "Texas",
+            "abbreviation": "TX",
+            "label": "Texas (TX)",
+            "value": "Texas"
+        },
+        {
+            "name": "Utah",
+            "abbreviation": "UT",
+            "label": "Utah (UT)",
+            "value": "Utah"
+        },
+        {
+            "name": "Vermont",
+            "abbreviation": "VT",
+            "label": "Vermont (VT)",
+            "value": "Vermont"
+        },
+        {
+            "name": "Virginia",
+            "abbreviation": "VA",
+            "label": "Virginia (VA)",
+            "value": "Virginia"
+        },
+        {
+            "name": "Washington",
+            "abbreviation": "WA",
+            "label": "Washington (WA)",
+            "value": "Washington"
+        },
+        {
+            "name": "West Virginia",
+            "abbreviation": "WV",
+            "label": "West Virginia (WV)",
+            "value": "West Virginia"
+        },
+        {
+            "name": "Wisconsin",
+            "abbreviation": "WI",
+            "label": "Wisconsin (WI)",
+            "value": "Wisconsin"
+        },
+        {
+            "name": "Wyoming",
+            "abbreviation": "WY",
+            "label": "Wyoming (WY)",
+            "value": "Wyoming"
+        }
+    ]
+}

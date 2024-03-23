@@ -1,0 +1,124 @@
+{
+    "schools": [
+        {
+            "label": "Example High School",
+            "location": "City, State",
+            "basketball_team": "Example High School Eagles",
+            "value": "Example High School"
+        },
+        {
+            "label": "Sample Prep Academy",
+            "location": "Another City, State",
+            "basketball_team": "Sample Prep Academy Tigers",
+            "value": "Sample Prep Academy"
+        },
+        {
+            "label": "Mocktown Middle School",
+            "location": "Yet Another City, State",
+            "basketball_team": "Mocktown Middle School Mavericks",
+            "value": "Mocktown Middle School"
+        },
+        {
+            "label": "Cityville High School",
+            "location": "City, State",
+            "basketball_team": "Cityville High School Wildcats",
+            "value": "Cityville High School"
+        },
+        {
+            "label": "County Central Academy",
+            "location": "County, State",
+            "basketball_team": "County Central Academy Cougars",
+            "value": "County Central Academy"
+        },
+        {
+            "label": "Riverfront High School",
+            "location": "River City, State",
+            "basketball_team": "Riverfront High School Ravens",
+            "value": "Riverfront High School"
+        },
+        {
+            "label": "Valleyview Middle School",
+            "location": "Valley Town, State",
+            "basketball_team": "Valleyview Middle School Vikings",
+            "value": "Valleyview Middle School"
+        },
+        {
+            "label": "Hillside Prep School",
+            "location": "Hillside City, State",
+            "basketball_team": "Hillside Prep School Hornets",
+            "value": "Hillside Prep School"
+        },
+        {
+            "label": "Harbor Bay High School",
+            "location": "Harbor Bay, State",
+            "basketball_team": "Harbor Bay High School Hawks",
+            "value": "Harbor Bay High School"
+        },
+        {
+            "label": "Lakeview Middle School",
+            "location": "Lakeview Town, State",
+            "basketball_team": "Lakeview Middle School Lions",
+            "value": "Lakeview Middle School"
+        },
+        {
+            "label": "Mountainview Academy",
+            "location": "Mountain City, State",
+            "basketball_team": "Mountainview Academy Mountaineers",
+            "value": "Mountainview Academy"
+        },
+        {
+            "label": "Southside High School",
+            "location": "Southside City, State",
+            "basketball_team": "Southside High School Spartans",
+            "value": "Southside High School"
+        },
+        {
+            "label": "North County Middle School",
+            "location": "North County, State",
+            "basketball_team": "North County Middle School Falcons",
+            "value": "North County Middle School"
+        },
+        {
+            "label": "Westlake High School",
+            "location": "Westlake City, State",
+            "basketball_team": "Westlake High School Wolverines",
+            "value": "Westlake High School"
+        },
+        {
+            "label": "Eastside Prep Academy",
+            "location": "Eastside Town, State",
+            "basketball_team": "Eastside Prep Academy Eagles",
+            "value": "Eastside Prep Academy"
+        },
+        {
+            "label": "Pineview Middle School",
+            "location": "Pineview City, State",
+            "basketball_team": "Pineview Middle School Panthers",
+            "value": "Pineview Middle School"
+        },
+        {
+            "label": "Oceanfront High School",
+            "location": "Oceanfront City, State",
+            "basketball_team": "Oceanfront High School Sharks",
+            "value": "Oceanfront High School"
+        },
+        {
+            "label": "Maplewood Academy",
+            "location": "Maplewood Town, State",
+            "basketball_team": "Maplewood Academy Mustangs",
+            "value": "Maplewood Academy"
+        },
+        {
+            "label": "Sunset Middle School",
+            "location": "Sunset City, State",
+            "basketball_team": "Sunset Middle School Suns",
+            "value": "Sunset Middle School"
+        },
+        {
+            "label": "Greenfield High School",
+            "location": "Greenfield County, State",
+            "basketball_team": "Greenfield High School Gators",
+            "value": "Greenfield High School"
+        }
+    ]
+}

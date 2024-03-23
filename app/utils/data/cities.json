@@ -1,0 +1,39 @@
+{
+    "cities": [
+        {
+            "city_name": "Cityville",
+            "state": "State A",
+            "country": "Country X",
+            "label": "Cityville, State A, Country X",
+            "value": "Cityville"
+        },
+        {
+            "city_name": "Metropolis",
+            "state": "State B",
+            "country": "Country Y",
+            "label": "Metropolis, State B, Country Y",
+            "value": "Metropolis"
+        },
+        {
+            "city_name": "Riverdale",
+            "state": "State C",
+            "country": "Country Z",
+            "label": "Riverdale, State C, Country Z",
+            "value": "Riverdale"
+        },
+        {
+            "city_name": "Hometown",
+            "state": "State D",
+            "country": "Country W",
+            "label": "Hometown, State D, Country W",
+            "value": "Hometown"
+        },
+        {
+            "city_name": "Sunset City",
+            "state": "State E",
+            "country": "Country V",
+            "label": "Sunset City, State E, Country V",
+            "value": "Sunset City"
+        }
+    ]
+}

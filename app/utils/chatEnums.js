@@ -1,0 +1,23 @@
+export const CHAT_ENUMS = {
+  USER_TYPE: {
+    PLAYER: 'PLAYER',
+    COACH: 'COACH',
+  },
+  CHANNEL_TYPE: {
+    ONE_ON_ONE_PLAYER: 'ONE_ON_ONE_PLAYER',
+    ONE_ON_ONE_COACH: 'ONE_ON_ONE_COACH',
+    TEAM_GROUP: 'TEAM_GROUP',
+    COACH_GROUP: 'COACH_GROUP',
+  },
+  MESSSAGE_TYPE: {
+    TEXT: 'TEXT',
+    VIDEO: 'VIDEO',
+    IMAGE: 'IMAGE',
+    BANNER: 'BANNER',
+  },
+  MESSAGE_STATUS: {
+    SENT: 'SENT',
+    DELIVERED: 'DELIVERED',
+    READ: 'READ',
+  },
+};
